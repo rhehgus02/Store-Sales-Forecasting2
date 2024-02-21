@@ -8,7 +8,7 @@
 ## **1. 참여자**
 |**팀원 1**|**팀원 2**|**팀원 3**|**팀원 4**|**팀원 5**|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|<img src="" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/abe0ff1e-6df1-4863-bb9b-cd576aa7cc43" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/8fd038c6-3446-4e84-a593-a54f996ea427" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/b7c82bb7-1880-4f33-af22-c062f993f945" width = 100 height = 100>|<img src = "https://avatars.githubusercontent.com/u/98953721?v=4" width = 100 height = 100>|    
+|<img src="https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/3d28268b-f6a1-4935-ab53-08e2f79fe4e3" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/abe0ff1e-6df1-4863-bb9b-cd576aa7cc43" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/8fd038c6-3446-4e84-a593-a54f996ea427" width = 100 height = 100>|<img src = "https://github.com/chasubeen/Store-Sales-Forecasting/assets/98953721/b7c82bb7-1880-4f33-af22-c062f993f945" width = 100 height = 100>|<img src = "https://avatars.githubusercontent.com/u/98953721?v=4" width = 100 height = 100>|    
 |[고도현](https://github.com/rhehgus02)|[박지현](https://github.com/Jihyun13579)|[서혜현](https://github.com/hyehyunseo)|[원서현](https://github.com/seohyun126)|[차수빈](https://github.com/chasubeen)|
 
 
